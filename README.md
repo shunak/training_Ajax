@@ -1,3 +1,3 @@
 # training_Ajax
 
-## ajax basics.
+ajax basics.
